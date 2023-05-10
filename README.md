@@ -1,1 +1,1 @@
-Repositorio de projetos feito em python
+Repositorio de projetos feitos em python
