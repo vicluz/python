@@ -1,4 +1,4 @@
-print('Bem vindo a Lanchonete do Victor Camilo da Luz(4120125)')         
+print('Bem vindo a Lanchonete do Victor Camilo da Luz')         
 print('*********cardapio*************')
 print(""" 
 100   Cachorro Quente                    9,00
