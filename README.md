@@ -1,1 +1,1 @@
-Codigo de um programa basico construido em python
+Repositorio de projetos feito em python
